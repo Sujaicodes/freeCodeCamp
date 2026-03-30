@@ -116,6 +116,7 @@
     "share-on-x": "X でシェア",
     "share-on-bluesky": "Bluesky でシェア",
     "share-on-threads": "Threads でシェア",
+    "share-on-facebook": "Share on Facebook",
     "play-scene": "Press Play",
     "download-latest-version": "Download the Latest Version",
     "more-ways-to-sign-in": "More ways to sign in",
@@ -442,6 +443,7 @@
     "edit-my-profile": "プロフィールを編集",
     "add-bluesky": "この認定証を Bluesky で共有",
     "add-threads": "この認定証を Threads で共有",
+    "add-facebook": "Share this certification on Facebook",
     "experience": {
       "heading": "Experience",
       "share-experience": "Share your professional experience",

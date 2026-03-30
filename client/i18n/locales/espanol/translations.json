@@ -116,6 +116,7 @@
     "share-on-x": "Compartir en X",
     "share-on-bluesky": "Compartir en BlueSky",
     "share-on-threads": "Compartir en Threads",
+    "share-on-facebook": "Share on Facebook",
     "play-scene": "Presione Play",
     "download-latest-version": "Descargue la última versión",
     "more-ways-to-sign-in": "Más formas de iniciar sesión",
@@ -442,6 +443,7 @@
     "edit-my-profile": "Editar mi perfil",
     "add-bluesky": "Comparte esta certificacion en BlueSky",
     "add-threads": "Comparte esta certificacion en Threads",
+    "add-facebook": "Share this certification on Facebook",
     "experience": {
       "heading": "Experiencia",
       "share-experience": "Comparte tu experiencia profesional",
